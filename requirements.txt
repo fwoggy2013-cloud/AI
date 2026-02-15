@@ -1,4 +1,7 @@
 streamlit
-google-generativeai
+torch
+transformers
+einops
+pillow
+opencv-python-headless
 gTTS
-Pillow
