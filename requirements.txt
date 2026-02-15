@@ -1,2 +1,6 @@
 streamlit
-google-generativeai
+torch
+transformers
+pillow
+opencv-python-headless
+einops
